@@ -1,4 +1,4 @@
-#My Favorite Movies
+#My Favorite Movies Udacity Project
 
 **TITLE:** My Favorite Movies 
 **AUTHOR:** Ruhada Emini
